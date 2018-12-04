@@ -20,7 +20,7 @@
     },
     "contracts": [
         "AssetProxyOwner",
-        "CompliantForwarder",
+        "BalanceThresholdFilter",
         "DummyERC20Token",
         "DummyERC721Receiver",
         "DummyERC721Token",
